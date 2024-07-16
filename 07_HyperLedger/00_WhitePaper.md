@@ -1,3 +1,16 @@
+## Key Aspects of HyperLedger
+| **Aspect**                   | **Details**                                                                                                                                                         |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Platform Name**            | Hyperledger                                                                                                                                                         |
+| **Use Cases**                | Industry-driven principles, B2B/B2C transactions, regulatory compliance, varied business requirements.                                                              |
+| **Key Elements**             | Smart contracts, digital assets, record repositories, decentralized consensus, cryptographic security, performance optimization, identity verification, private transactions. |
+| **Background**               | Emerged with Bitcoin; enhances banking, supply-chain, transaction networks.                                                                                          |
+| **Smart Contracts**          | Automates business rules, deployed on blockchain, collective validation.                                                                                             |
+| **Bitcoin vs. Hyperledger**  | Contrasts open, permissionless Bitcoin with Hyperledger's permissioned, modular consensus approach.                                                                 |
+| **Challenges Addressed**     | Scalability, confidentiality in transactions, limitations of existing blockchains for business applications.                                                        |
+| **Design Objectives**        | Lightweight, modular, extensible via configuration and component pluggability (e.g., consensus models).                                                             |
+| **Enterprise Focus**         | Addresses blockchain shortcomings, supports diverse industry use cases.                                                                                               |
+
 ## HyperLedger Vision and Goals
 | **Aspect**                     | **Details**                                                                                                     |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------|
